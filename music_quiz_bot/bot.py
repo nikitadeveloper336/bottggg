@@ -39,7 +39,7 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
     else:
         await query.edit_message_text(f"Неправильно! Правильный ответ: {song['answer']}")
 
-app = ApplicationBuilder().token("BOT-TOKEN").build()
+app = ApplicationBuilder().token("7590308951:AAGDpqfTiNjxKL5oK3EPI9lXEVFtPD6_MrQ").build()
 app.add_handler(CommandHandler("start", start))
 app.add_handler(CommandHandler("quiz", quiz))
 app.add_handler(CallbackQueryHandler(button))
