@@ -1,0 +1,82 @@
+[
+  {
+    "file": "audio/song1.ogg",
+    "answer": "Frank Sinatra - Let It Snow",
+    "options": [
+      "Imagine - John Lennon",
+      "Let it Be - The Beatles",
+      "Frank Sinatra - Let It Snow",
+      "Bohemian Rhapsody - Queen"
+    ]
+  },
+  {
+    "file": "audio/song2.ogg",
+    "answer": "Frank Sinatra - My Way",
+    "options": [
+      "Frank Sinatra - My Way",
+      "Perfect - Ed Sheeran",
+      "Shape of You - Ed Sheeran",
+      "Thinking Out Loud - Ed Sheeran"
+    ]
+  },
+  {
+    "file": "audio/song3.ogg",
+    "answer": "Michael Jackson - Black or White",
+    "options": [
+      "Frank Sinatra - My Way",
+      "Frank Sinatra - Let It Snow",
+      "Michael Jackson - Black or White",
+      "Thinking Out Loud - Ed Sheeran"
+    ]
+  },
+  {
+    "file": "audio/song4.ogg",
+    "answer": "Michael Jackson - The Way You Make Me Feel",
+    "options": [
+      "Thinking Out Loud - Ed Sheeran",
+      "Frank Sinatra - Let It Snow",
+      "Michael Jackson - Black or White",
+      "Michael Jackson - The Way You Make Me Feel"
+    ]
+  },
+  {
+    "file": "audio/song5.ogg",
+    "answer": "The Beatles - Yesterday",
+    "options": [
+      "The Beatles - Yesterday",
+      "Frank Sinatra - Let It Snow",
+      "Let it Be - The Beatles",
+      "Michael Jackson - The Way You Make Me Feel"
+    ]
+  },
+  {
+    "file": "audio/song6.ogg",
+    "answer": "Frank Sinatra - Strangers In The Night",
+    "options": [
+      "The Beatles - Yesterday",
+      "Frank Sinatra - Strangers In The Night",
+      "Michael Jackson - The Way You Make Me Feel",
+      "Bohemian Rhapsody - Queen"
+    ]
+  },
+  {
+    "file": "audio/song7.ogg",
+    "answer": "The Beatles - Now And Then",
+    "options": [
+      "The Beatles - Yesterday",
+      "Frank Sinatra - Strangers In The Night",
+      "Frank Sinatra - Let It Snow",
+      "The Beatles - Now And Then"
+    ]
+  },
+  {
+    "file": "audio/song8.ogg",
+    "answer": "Frank Sinatra - New York New York",
+    "options": [
+      "Frank Sinatra - New York New York",
+      "Frank Sinatra - Strangers In The Night",
+      "Frank Sinatra - Let It Snow",
+      "Michael Jackson - Black or White"
+    ]
+  }
+]
